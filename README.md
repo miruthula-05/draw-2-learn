@@ -68,4 +68,4 @@ Draw to Learn bridges this gap by using AI to analyze children's drawings and co
 
 **Miruthula Sri A**
 
-Artificial Intelligence and Machine Learning Student
+B.E Artificial Intelligence and Machine Learning 
